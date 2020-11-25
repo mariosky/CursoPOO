@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+    class Figura
+    {
+        
+    }
     class Program
     {
         static void Main(string[] args)
         {
 
-            Console.WriteLine("¡Hola Mundo!");
+            Console.WriteLine("Hola");
+            
             Console.ReadKey();
         }
     }
